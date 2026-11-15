@@ -1,9 +1,5 @@
-# Project 3 - Palindrome Detector
+# Palindrome Detector (Stack and Queue)
 
-My Submission for Computer Science Data Structures, Section 11, Lab Week 10
+A stack and a queue built in C++ as adapters over an existing data structure, then combined to detect palindromes. The project includes unit tests and a memory leak checker, and builds with the included Makefile.
 
-# My Information
-
-* Name: George Hanna
-* CWID: 885062505
-* Email: ghanna@csu.fullerton.edu
+Built for a data structures course at Cal State Fullerton.
